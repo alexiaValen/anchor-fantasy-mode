@@ -6,7 +6,7 @@ import { ModePills, Mode } from "@/components/mode-pills";
 import { AnchorTop3 } from "@/components/anchor-top3";
 import { SprintTimer } from "@/components/sprint-timer";
 import { SessionNotes } from "@/components/session-notes";
-import { PlannerCard } from "@/components/planner-card";
+import { PlannerCard } from "../components/planner-card";
 
 function makeCommitDraft(input: {
   mode: Mode;
