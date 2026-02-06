@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "deploy": "npm run build-gh && npx gh-pages -d out",
-  "build-gh": "cross-env GITHUB_PAGES=true next build"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "deploy": "npm run build-gh && npx gh-pages -d out",
+    "build-gh": "cross-env GITHUB_PAGES=true next build"
+  },
   "dependencies": {
     "next": "16.1.6",
     "react": "19.2.3",
@@ -19,6 +19,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
+    "cross-env": "^10.1.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "gh-pages": "^6.3.0",
