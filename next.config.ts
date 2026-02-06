@@ -1,8 +1,12 @@
 import type { NextConfig } from "next";
 
+const repo = "anchor-fantasy-mode"; // ✅ repo name ONLY
+
 const nextConfig: NextConfig = {
-  /* config options here */
-  reactCompiler: true,
+  output: "export",
+  images: { unoptimized: true },
+  basePath: `/${repo}`,
+  assetPrefix: `/${repo}/`,
 };
 
 export default nextConfig;
