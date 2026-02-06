@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "deploy": "npm run build && npx gh-pages -d out",
-    "start": "next start",
-    "lint": "eslint"
-  },
+  "dev": "next dev",
+  "build": "next build",
+  "deploy": "npm run build-gh && npx gh-pages -d out",
+  "build-gh": "cross-env GITHUB_PAGES=true next build"
+},
   "dependencies": {
     "next": "16.1.6",
     "react": "19.2.3",
