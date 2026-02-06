@@ -52,15 +52,24 @@ Short, embodied cues that regulate effort and urgency:
   - Lock in 3 priorities per day
 - **Focus Sprints**
   - Time-boxed work with reflection
+  ### Dashboard (Focus + Anchor)
+![Dashboard Focus](./public/screens/dash-focus.png)
 - **Session Notes**
   - Started → Figured Out → Ended Here → Files Touched
+  ### Session Notes (Developer Mode)
+![Session Notes](./public/screens/session-notes.png)
 - **Git Commit Draft Helper**
   - Turns session notes into clear commits
 - **Bubble Brain**
   - Capture without organizing
+  ### Bubble Brain (Capture)
+![Bubble Brain](./public/screens/bubble-brain.png)
 - **Planner Card**
   - Simplified output designed to be written by hand in a physical planner
-
+  ### Planner Card (Write it down)
+![Planner Card](./public/screens/planner.png)
+### Somatic Instructions
+![Somatic Instructions](./public/screens/somatic.png)
 ---
 
 ## 🛠 Tech Stack
