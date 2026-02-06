@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22621,["/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"ViewportBoundary"]
-3:I[22621,["/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"MetadataBoundary"]
+2:I[22621,["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"ViewportBoundary"]
+3:I[22621,["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[93414,["/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"IconMark"]
-0:{"buildId":"qlWc9zhCk--TNQPa8pW9Y","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"icon","href":"/anchor-fantasy-mode/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","1",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
+5:I[93414,["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"IconMark"]
+0:{"buildId":"j85Z1A8a49461u_0J5VQu","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"icon","href":"/anchor-fantasy-mode/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","1",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
