@@ -79,7 +79,7 @@ export default function DashboardPage() {
             Anchor <span className="opacity-70">·</span> Fantasy Mode
           </h1>
           <p className="text-sm text-[rgb(var(--muted))]">
-            Bubble Brain holds the chaos. Anchor ships the day.
+            TEST Bubble Brain holds the chaos. Anchor ships the day.
           </p>
         </div>
 
