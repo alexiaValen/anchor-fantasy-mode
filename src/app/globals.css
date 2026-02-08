@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 :root {
   --background: #ffffff;
@@ -39,7 +41,7 @@ body {
   --muted: 107 114 128;
 }
 
-/* Optional: slightly more “premium” base */
+/* Optional: slightly more â€œpremiumâ€ base */
 html, body {
   height: 100%;
 }
