@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[84681,["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"default"]
-3:I[48829,["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"default"]
-0:{"buildId":"j85Z1A8a49461u_0J5VQu","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[84681,["/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"default"]
+3:I[48829,["/anchor-fantasy-mode/_next/static/chunks/c193e01f38e1abef.js"],"default"]
+0:{"buildId":"wC5kqcRd2Gg5MQjfkPRzJ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

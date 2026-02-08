@@ -1,2 +1,2 @@
-:HL["https://alexiavalen.github.io/anchor-fantasy-mode/_next/static/chunks/d8e8a3681c9ba756.css","style"]
-0:{"buildId":"j85Z1A8a49461u_0J5VQu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/anchor-fantasy-mode/_next/static/chunks/d8e8a3681c9ba756.css","style"]
+0:{"buildId":"wC5kqcRd2Gg5MQjfkPRzJ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
